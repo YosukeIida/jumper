@@ -137,6 +137,7 @@ public class World {
         coins.forEach(x->x.move());
         springs.forEach(x->x.move());
 
+
 //
 //        for (int i=0; i<PLATFORM_COUNTS; i++) {
 //            platforms.get(i).move();
